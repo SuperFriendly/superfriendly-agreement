@@ -7,6 +7,8 @@ Doing business doesn’t have to be confusing or complicated.
 
 If you’re thinking about working with SuperFriendly, here’s our simple, standard Service Agreement that you can browse through to get a sense of how we like to work. If you’re an agency or freelancer and aren’t happy with yours—or worse, you don’t use any type of contract—you’re welcome to use ours as a starting point.
 
+You can get other versions of this agreement (.pages, .docx, .key) at [agreement.superfriend.ly](http://agreement.superfriend.ly/).
+
 By downloading this SuperFriendly Service Agreement, you agree to abide by these Terms:
 
 1. This License is granted to You as Licensee by SuperFriendly Co. (“We,” “Us”). The License grants You a non-exclusive, non-transferable, and limited right to install and use the SuperFriendly Service Agreement on any computer You own.
